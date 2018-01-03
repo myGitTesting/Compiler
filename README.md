@@ -85,5 +85,4 @@ The program will then generate SML code based on the Simple input. Once the SML 
 | none | 19 +0000 | memory location for variable b |
 | none | 20 +0000 | memory location for variable a |
 
-
-
+Project inspired by [compiler.pdf](http://www.deitel.com/bookresources/jhtp10/Compiler.pdf)
