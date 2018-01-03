@@ -1,5 +1,7 @@
 Program takes a programming language called 'Simple', converts it to Simple Machine Language (SML), then executes it.
 
+[![Screenshot_10.png](https://s5.postimg.org/unl7asddz/Screenshot_10.png)](https://postimg.org/image/gtwulqksj/)
+
 **SML**
 
 The machine language syntax is a 4 digit number, where the leading two digits describe the operation and the trailing two digits describe the location in memory of which to run the operation against.
